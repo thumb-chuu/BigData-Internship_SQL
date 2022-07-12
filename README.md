@@ -1,1 +1,1 @@
-# BigData-Internship_SQL
+# BigData-Internship_statistics
